@@ -1,0 +1,59 @@
+html {
+    font-family: Verdana;
+    font-size: 16px;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+.main-content h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.main-content h3 {
+    font-size: 21px;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
+
+a:link {
+    color: #699;
+    text-decoration: none;
+    background-color: transparent padding: 15px;
+}
+
+a:visited {
+    color: #699;
+    text-decoration: none;
+    background-color: transparent
+}
+
+a:hover {
+    color: #c93;
+    text-decoration: underline;
+    background-color: transparent
+}
+
+a:active {
+    color: #900;
+    text-decoration: underline;
+    background-color: transparent
+}
+
+footer {
+    color: gray;
+    text-align: right;
+    padding: 15px;
+}
+
+.image-phone img {
+    padding: 15px;
+}
